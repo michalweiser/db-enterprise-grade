@@ -11,6 +11,8 @@ accordion
 card
 window
 field
+grid
+box
 
 notification
 ============
