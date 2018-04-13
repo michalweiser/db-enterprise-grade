@@ -27,6 +27,8 @@ markup
 heading
 paragraph
 span
+itemlist
+line
 
 selection
 =========
@@ -49,3 +51,9 @@ datetimezone
 timerange
 daterange
 datetimerange
+
+data
+====
+datagrid
+table
+list
