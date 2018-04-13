@@ -10,6 +10,7 @@ tabs
 accordion
 card
 window
+field
 
 notification
 ============
@@ -29,6 +30,7 @@ paragraph
 span
 itemlist
 line
+label
 
 selection
 =========
@@ -36,6 +38,8 @@ single from a few
 single from many
 multiple from a few
 multiple from many
+checkbox
+radio
 
 input
 =====
