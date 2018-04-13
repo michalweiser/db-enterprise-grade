@@ -34,3 +34,18 @@ single from a few
 single from many
 multiple from a few
 multiple from many
+
+input
+=====
+text
+textarea
+
+time
+====
+date
+time
+datetime
+datetimezone
+timerange
+daterange
+datetimerange
